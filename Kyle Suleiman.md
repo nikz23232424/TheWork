@@ -1,6 +1,6 @@
 # BASIC INFORMATION
 
-- Name: Decalius Suleiman
+- Name: Kyle Suleiman
 
 - Sex: Male
 
@@ -14,7 +14,7 @@
 
 - Family: Mother (43), Father (41), Older brother, [[Rais suleiman]]. (17 -  26)
 
-# PHYSICAL APPEARANCE
+# EARLY PHYSICAL APPEARANCE
 
 - **Height:** 171 cm (5'6”)
 
