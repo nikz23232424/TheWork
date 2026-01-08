@@ -22,7 +22,7 @@
 
 - Hair: Black medium‑length with **messy, layered strands** that fall around his head but especially into the front. The **fringe (bangs)** hangs forward in a slight **V‑shaped shape between his eyes**—not too long, but enough to frame his face and Tousled/unkempt, a bit **spiky and natural** rather than perfectly styled.
 
-- Eyes: Soft, downturned, almond-shaped dark brown eyes framed by long and fluffy eyelashes. She also has thick eyebrows. 
+- Eyes: Soft, downturned, almond-shaped dark red eyes.
 
 - Face: Above average. Her face is slender with soft and delicate features. She also has tiny beauty marks, one beneath on her right cheek and one beneath her mouth. 
 
