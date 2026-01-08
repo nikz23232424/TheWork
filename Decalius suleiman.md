@@ -20,7 +20,7 @@
     
 - Weight: 56 kg (101 lbs)
 
-- Hair: Medium length, black, wavy and voluminous hair. She also has curtain bangs, softly framing her face.
+- Hair: Medium‑length with **messy, layered strands** that fall around his head but especially into the front. The **fringe (bangs)** hangs forward in a slight **V‑shaped shape between his eyes**—not too long, but enough to frame his face.
 
 - Eyes: Soft, downturned, almond-shaped dark brown eyes framed by long and fluffy eyelashes. She also has thick eyebrows. 
 
