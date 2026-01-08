@@ -42,4 +42,6 @@
 
 # HABITS AND MANNERISMS
 
-  - He sometimes zone out while overthinking and keep fidgeting something while thinking and pacing around a lot with his thoughts he also 
+  - He sometimes zone out while overthinking and keep fidgeting something while thinking and pacing around a lot with his thoughts he also punches walls while pressured.
+ 
+ - 
