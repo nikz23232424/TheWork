@@ -6,7 +6,7 @@
 
 - Nationality / Languages: Arabic, American.
 
-- Occupation: 
+- Occupation: Leader of 
 
 - Age: 14 - 41
 
