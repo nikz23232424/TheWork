@@ -24,7 +24,7 @@
 
 - Eyes: Soft, downturned, almond-shaped dark red eyes.
 
-- Face: Above average. Her face is slender with soft and delicate features. She also has tiny beauty marks, one beneath on her right cheek and one beneath her mouth. 
+- Face: Above average but around average. His face is 
 
 - Body: Slender and thin with pale skin complexion,  she also has a small chest. Eisha has very sensitive skin too, she sometimes get rashes. 
 
