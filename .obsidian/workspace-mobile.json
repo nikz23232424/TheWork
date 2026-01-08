@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Kyle Suleiman"
             }
+          },
+          {
+            "id": "57637e92f51dd275",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Kyle Suleiman.md",
+            "file": "Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -168,10 +183,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "e904f1cde98be829",
+  "active": "57637e92f51dd275",
   "lastOpenFiles": [
-    "Characters.md",
     "Kyle Suleiman.md",
+    "Untitled.md",
+    "Characters.md",
     "Rais suleiman.md",
     "Decalius Crane.md"
   ]
