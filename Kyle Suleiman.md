@@ -42,4 +42,4 @@
 
 # HABITS AND MANNERISMS
 
-  - He sometimes zone out while overthinking 
+  - He sometimes zone out while overthinking and keep fidgeting something while thinking 
