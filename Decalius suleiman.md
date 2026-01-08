@@ -16,9 +16,9 @@
 
 # PHYSICAL APPEARANCE
 
-- Height: 164 cm (5’4”)
+- Height: 171 cm (5'6”)
     
-- Weight: 46 kg (101 lbs)
+- Weight: 56 kg (101 lbs)
 
 - Hair: Medium length, black, wavy and voluminous hair. She also has curtain bangs, softly framing her face.
 
