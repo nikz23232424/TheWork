@@ -38,4 +38,6 @@
 
 - Negative traits: Short tempered, very hateful while hating and impatient, rebellious and uses physical while in anger and having lots of murderous intent while in anger 
 
- - Overall personality: Kyle is an overall oblivious person that is questioning everything and uncertain if he know everything or not and he is also both quiet and loud at the same time like and ambivert
+ - Overall personality: Kyle is an overall oblivious person that is questioning everything and uncertain if he know everything or not and he is also both quiet and loud at the same time like an ambivert.
+
+  - 
