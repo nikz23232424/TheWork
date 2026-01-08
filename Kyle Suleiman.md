@@ -30,4 +30,4 @@
 
 - **Distinctive Features:** Soft, approachable expression; naturally tousled hair; subtle sharpness in his gaze that hints at thoughtfulness or quiet energy.
 
-- **Clothing Style / Preferences:** Prefers casual, slightly loose-fitting clothes that are easy to move in a black T-shirt with gray and black and jeans in muted or dark colors. Accessories are minimal, possibly a simple bracelet or necklace. Shoes are practical yet stylish, often sneakers or boots. Overall, his style complements his natural, effortless look, matching his understated yet slightly edgy personality.
+- **Clothing Style / Preferences:** Prefers casual, slightly loose-fitting clothes that are easy to move in a black T-shirt with gray and black zipped hoodie and jeans in muted or dark colors. Accessories are minimal, possibly a ski mask or a watch. Shoes are practical yet stylish, often sneakers or boots. Overall, his style complements his natural, effortless look, matching his understated yet slightly edgy personality.
