@@ -46,4 +46,4 @@
  
  - He sleeps late a lot he doesnt really organize things he is very messy and makes complicated plans and sees near things unnecessary
 
-# 
+# SKILLS AND LIKES
