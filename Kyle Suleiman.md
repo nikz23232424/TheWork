@@ -34,4 +34,4 @@
 
 # PERSONALITY
 
-- 
+- Positive traits:
