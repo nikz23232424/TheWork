@@ -41,3 +41,5 @@
  - Overall personality: Kyle is an overall oblivious person that is questioning everything and uncertain if he know everything or not and he is also both quiet and loud at the same time like an ambivert.
 
 # HABITS AND MANNERISMS
+
+  - 
