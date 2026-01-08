@@ -22,9 +22,9 @@
 
 - Hair: Black medium‑length with **messy, layered strands** that fall around his head but especially into the front. The **fringe (bangs)** hangs forward in a slight **V‑shaped shape between his eyes**—not too long, but enough to frame his face and Tousled/unkempt, a bit **spiky and natural** rather than perfectly styled.
 
-- Eyes: Soft, downturned, large dark red eyes.
+- Eyes: Soft, downturned, large circled dark red eyes.
 
-- Face: Above average but around average. His face is is pale and white.
+- Face: Above average but around average. His face is is pale and white with thin lips ussua
 
 - Body: Slender and thin with pale skin complexion,  she also has a small chest. Eisha has very sensitive skin too, she sometimes get rashes. 
 
