@@ -44,4 +44,6 @@
 
   - He sometimes zone out while overthinking and keep fidgeting something while thinking and pacing around a lot with his thoughts he also punches walls while pressured.
  
- - He sleeps late a lot he doesnt really organize things he is very messy and makes complicated plans and sees 
+ - He sleeps late a lot he doesnt really organize things he is very messy and makes complicated plans and sees near things unnecessary
+
+# 
