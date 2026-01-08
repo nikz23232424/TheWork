@@ -42,4 +42,4 @@
 
 # HABITS AND MANNERISMS
 
-  - 
+  - He sometimes zone out while overthinking 
