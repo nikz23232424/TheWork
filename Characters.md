@@ -1,1 +1,1 @@
-Main Character : [[Decalius Suleiman]]
+Main Character : [[Kyle Suleiman]]
