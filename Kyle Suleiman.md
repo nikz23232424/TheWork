@@ -34,4 +34,6 @@
 
 # PERSONALITY
 
-- Positive traits: 
+- Positive traits: Deep thinker takes the effort to understand everything and try to know every reason behind on every events that has happened very loyal and never leaves first and has desire to help and forgiving
+
+- Negative traits: Short tempered, very hateful while hating and impatient, rebellious and uses physical while in anger and having lots of murderous intent while in anger 
