@@ -20,7 +20,7 @@
     
 - Weight: 56 kg (101 lbs)
 
-- Hair: Medium‑length with **messy, layered strands** that fall around his head but especially into the front. The **fringe (bangs)** hangs forward in a slight **V‑shaped shape between his eyes**—not too long, but enough to frame his face.
+- Hair: Black medium‑length with **messy, layered strands** that fall around his head but especially into the front. The **fringe (bangs)** hangs forward in a slight **V‑shaped shape between his eyes**—not too long, but enough to frame his face and Tousled/unkempt, a bit **spiky and natural** rather than perfectly styled.
 
 - Eyes: Soft, downturned, almond-shaped dark brown eyes framed by long and fluffy eyelashes. She also has thick eyebrows. 
 
