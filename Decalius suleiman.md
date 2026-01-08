@@ -10,6 +10,6 @@
 
 - Age: 14 - 41
 
-- Birthday: November 
+- Birthday: November 7th 2011
 
-- Family: Mother (43), Father (41), Older step brother, [[Rais suleiman]]. (20)
+- Family: Mother (43), Father (41), Older step brother, [[Rais Suleiman]]. (20)

@@ -1,1 +1,1 @@
-Main Character : [[Decalius suleiman]]
+Main Character : [[Decalius Suleiman]]
