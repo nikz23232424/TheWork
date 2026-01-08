@@ -6,7 +6,7 @@
 
 - Nationality / Languages: Arabic, American.
 
-- Occupation: Leader of World Human Assembly}
+- Occupation: Leader of [[World Human Assembly|W.H.A]]
 
 - Age: 14 - 41
 
