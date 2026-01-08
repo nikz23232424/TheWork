@@ -26,7 +26,7 @@
 
 - Face: Above average but around average. His face is is pale and white with thin lips ussua
 
-- Body: Slender but not too much and thin with pale skin complexion, medium 
+- Body: Slender but not too much and thin with pale skin complexion, Medium sized body
 
 - Features: • Delicate, soft facial features • Light freckles, tiny beauty marks on face • Flat moles all around body • Slightly frizzy, wavy hair • Slender hands with slightly long nails. •Very sensitive skin, she sometimes gets rashes and it annoys her 
 
