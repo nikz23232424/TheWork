@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters.md",
+                "file": "Kyle Suleiman.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Characters"
+              "title": "Kyle Suleiman"
             }
           }
         ]
@@ -170,9 +170,9 @@
   },
   "active": "c5bf9c8de1591a47",
   "lastOpenFiles": [
+    "Characters.md",
     "Kyle Suleiman.md",
     "Rais suleiman.md",
-    "Decalius Crane.md",
-    "Characters.md"
+    "Decalius Crane.md"
   ]
 }
