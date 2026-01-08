@@ -6,7 +6,7 @@
 
 - Nationality / Languages: Arabic, American.
 
-- Occupation: Leader of 
+- Occupation: Leader of United Terran Front
 
 - Age: 14 - 41
 
