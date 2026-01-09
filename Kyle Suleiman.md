@@ -48,4 +48,4 @@
 
 # SKILLS AND LIKES
 
-  - He is very skilled in logical tasks and he is a great programmer and is interested in researching computer consciousness which is AGI
+  - He is very skilled in logical tasks and he is a great programmer and is interested in researching artificial consciousness 
