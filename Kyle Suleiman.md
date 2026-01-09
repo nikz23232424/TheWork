@@ -18,7 +18,7 @@
 
 - **Height:** 171 cm (5'6”)
 
-- **Weight:** 56 kg (101 lbs)
+- **Weight:** 56 kg (101 lbs.)
 
 - **Hair:** Black, medium-length with messy, layered strands that naturally fall around his head. The fringe forms a subtle **V-shape between his eyes**, framing his face. Slightly tousled and spiky, giving a casual, effortless look.
 
@@ -44,8 +44,8 @@
 
   - He sometimes zone out while overthinking and keep fidgeting something while thinking and pacing around a lot with his thoughts he also punches walls while pressured.
  
- - He sleeps late a lot he doesnt really organize things he is very messy and makes complicated plans and sees near things unnecessary
+ - He sleeps late a lot he doesn't really organize things he is very messy and makes complicated plans and sees near things unnecessary
 
 # SKILLS AND LIKES
 
-  - He is very skilled in logical tasks and he is a great programmer and is intrested 
+  - He is very skilled in logical tasks and he is a great programmer and is interested in researching computer consciousness which is AGI
