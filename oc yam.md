@@ -1,6 +1,6 @@
 # BASIC INFORMATION
 
-- Name: Eisha Hadi ( عيشة هادي )
+- Name: Alya Suleiman ( عيشة هادي )
 
 - Sex: Female
 

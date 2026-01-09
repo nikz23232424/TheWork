@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hi.md",
+                "file": "oc yam.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hi"
+              "title": "oc yam"
             }
           }
         ],
@@ -200,7 +200,7 @@
   "active": "2f36ecb05d51bc9f",
   "lastOpenFiles": [
     "Untitled.md",
-    "hi.md",
+    "oc yam.md",
     "Kyle Suleiman.md",
     "Rais suleiman.md",
     "Characters.md",
