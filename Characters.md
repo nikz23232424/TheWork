@@ -1,3 +1,3 @@
  - Protagonist : [[Kyle Suleiman]]
 
- - Antagonist : HeliosA
+ - Antagonist : HeliosAGI
