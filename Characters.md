@@ -1,1 +1,1 @@
-Main Character : [[Kyle Suleiman]]
+Protagonist : [[Kyle Suleiman]]
