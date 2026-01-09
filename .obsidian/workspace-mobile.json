@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kyle Suleiman.md",
+                "file": "Characters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kyle Suleiman"
+              "title": "Characters"
             }
           }
         ],
@@ -127,7 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Kyle Suleiman.md",
+            "file": "Characters.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -185,10 +185,10 @@
   },
   "active": "57637e92f51dd275",
   "lastOpenFiles": [
-    "Chat Gpts advice.md",
     "Kyle Suleiman.md",
-    "Characters.md",
     "Rais suleiman.md",
+    "Chat Gpts advice.md",
+    "Characters.md",
     "Decalius Crane.md"
   ]
 }
