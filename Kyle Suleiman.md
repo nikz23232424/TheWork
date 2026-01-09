@@ -48,4 +48,4 @@
 
 # SKILLS AND LIKES
 
-  - He is very skilled in logical tasks and he is a great programmer and is interested in researching [[Artificial Consciousness Inteligence]]
+  - He is very skilled in logical tasks and he is a great programmer and is interested in researching [[Artificial Consciousness Inteligence|ACI]]
