@@ -48,4 +48,4 @@
 
 # SKILLS AND LIKES
 
-  - 
+  - He is very s
