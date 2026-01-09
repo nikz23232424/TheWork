@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters.md",
+                "file": "Kyle Suleiman.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Characters"
+              "title": "Kyle Suleiman"
             }
           }
         ],
@@ -185,9 +185,9 @@
   },
   "active": "57637e92f51dd275",
   "lastOpenFiles": [
-    "Chat Gpts advice.md",
     "Characters.md",
     "Kyle Suleiman.md",
+    "Chat Gpts advice.md",
     "Rais suleiman.md",
     "Artificial Consciousness Intelligence.md",
     "Decalius Crane.md"
