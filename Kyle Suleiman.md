@@ -49,3 +49,7 @@
 # SKILLS AND LIKES
 
   - He is very skilled in logical tasks and he is a great programmer and is interested in researching [[Artificial Consciousness Intelligence|ACI]]. He likes things that is overwhelming, that forces him to take every aspect at the same time very quickly and seeks the limits of human intelligence
+
+# SPEECH
+
+  - He speaks in a uninterested tone while in a common mood but he speaks really aggressively with lots of slurs while angry and he speaks in a unfocused
