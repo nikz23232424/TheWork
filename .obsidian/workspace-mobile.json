@@ -27,25 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Consciousness Intelligence.md",
+                "file": "Kyle Suleiman.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Artificial Consciousness Intelligence"
+              "title": "Kyle Suleiman"
             }
           },
           {
-            "id": "be5a862fd31bd522",
+            "id": "2f36ecb05d51bc9f",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "hi.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "hi"
             }
           }
         ],
@@ -196,17 +197,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "be5a862fd31bd522",
+  "active": "2f36ecb05d51bc9f",
   "lastOpenFiles": [
     "Untitled.md",
-    "Artificial Consciousness Intelligence.md",
-    "Untitled.base",
     "hi.md",
-    "Characters.md",
-    "World Human Assembly.md",
     "Kyle Suleiman.md",
-    "Chat Gpts advice.md",
     "Rais suleiman.md",
+    "Characters.md",
+    "Chat Gpts advice.md",
+    "Artificial Consciousness Intelligence.md",
     "Decalius Crane.md"
   ]
 }
