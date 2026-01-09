@@ -52,4 +52,4 @@
 
 # SPEECH
 
-  - He speaks in a uninterested tone while in a common mood but he speaks really aggressively with lots of slurs while angry and he speaks in a unfocused
+  - He speaks in a uninterested tone while in a common mood but he speaks really aggressively with lots of slurs while angry and he speaks in a unfocused tone while sad but he speaks autistically while happy 
