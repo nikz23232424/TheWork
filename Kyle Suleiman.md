@@ -48,4 +48,4 @@
 
 # SKILLS AND LIKES
 
-  - He is very s
+  - He is very skilled in logical tasks and he is a great programmer and is intrested 
