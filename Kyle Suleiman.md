@@ -12,7 +12,7 @@
 
 - Birthday: November 7th
 
-- Family: Mother (43), Father (41), Older brother, [[Rais Suleiman]]. (17 -  26)
+- Family: Mother (43), Father (41), Older brother, [[Rais Suleiman]]. (17 - 26),Younger sister, [[Alya Suleiman]] (12-37)
 
 # EARLY PHYSICAL APPEARANCE
 
